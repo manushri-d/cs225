@@ -1,4 +1,3 @@
-/* Your code here! */
 #include "maze.h"
 #include <iostream>
 
