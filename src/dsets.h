@@ -2,7 +2,6 @@
  * @file dsets.h
  * Disjoint Sets implementation.
  *
- * @date 12/02/2009
  */
 #pragma once
 
