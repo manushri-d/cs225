@@ -1,8 +1,6 @@
 /**
  * @file maze.h
  * Square Maze implementation.
- * @date 12/07/2009
- * @date 12/08/2009
  */
 #pragma once
 
